@@ -1,0 +1,41 @@
+$primary-color : #A61B0F;
+$secondary-color : #D9A577;
+// $success-color : ;
+// $warning-color : ;
+// $fail-color : ;
+// $dark-color : ;
+// $light-color : #F2BB13;
+// $cheer-color : #F28C0F;
+
+/* Color Theme Swatches in Hex */
+$Fashion-1-hex: #57733C;
+$Fashion-2-hex: #BDBF75;
+$Fashion-3-hex: #A69E2E;
+$Fashion-4-hex: #8C0303;
+$Fashion-5-hex: #590202;
+
+/* Color Theme Swatches in Hex */
+$NIKE-Collaboration.-1-hex: #F2F2F2;
+$NIKE-Collaboration.-2-hex: #BFBFBF;
+$NIKE-Collaboration.-3-hex: #8C8C8C;
+$NIKE-Collaboration.-4-hex: #3F3F3F;
+$NIKE-Collaboration.-5-hex: #0C0C0C;
+
+/* Color Theme Swatches in RGBA */
+$NIKE-Collaboration.-1-rgba: rgba(242,242,242, 1);
+$NIKE-Collaboration.-2-rgba: rgba(191,191,191, 1);
+$NIKE-Collaboration.-3-rgba: rgba(140,140,140, 1);
+$NIKE-Collaboration.-4-rgba: rgba(63,63,63, 1);
+$NIKE-Collaboration.-5-rgba: rgba(12,12,12, 1);
+
+/* Color Theme Swatches in HSLA */
+$NIKE-Collaboration.-1-hsla: hsla(0, 0, 94, 1);
+$NIKE-Collaboration.-2-hsla: hsla(0, 0, 74, 1);
+$NIKE-Collaboration.-3-hsla: hsla(0, 0, 54, 1);
+$NIKE-Collaboration.-4-hsla: hsla(0, 0, 24, 1);
+$NIKE-Collaboration.-5-hsla: hsla(0, 0, 4, 1);
+
+
+body {
+  background-color: $primary-color;
+}
